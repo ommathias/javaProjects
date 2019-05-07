@@ -7,6 +7,8 @@ public class Programa {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		System.out.println("Eclipse pesadaum");
+		
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Quantos moradores?");
